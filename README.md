@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Marchiori</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Gabriel Marchiori</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielMarchiori&color=yellow" alt="Profile views" /> </p>
 
 Sou um **profissional de tecnologia** com experiência em **Help-Desk** e **suporte de infraestrutura** desde 2023, e atualmente **estudante de Análise e Desenvolvimento de Sistemas**. Tenho conhecimento em **banco de dados SQL** e estou me especializando em **desenvolvimento de software com Java**. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, e você pode acompanhar meu progresso aqui no GitHub ou no meu LinkedIn.
@@ -35,6 +35,8 @@ Se você quiser trocar ideias, discutir sobre tecnologia ou ver mais sobre o meu
 
 <a href="https://www.linkedin.com/in/gabrielmarchiori-n/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabriel.marchiori202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+##
 
 <div align="center">
   <a href="https://github.com/GabrielMarchiori">
